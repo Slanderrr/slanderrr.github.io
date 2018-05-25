@@ -1,0 +1,9 @@
+Package: com.yourname.tweakname
+Name: TweakName
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Example Tweak!
+Maintainer: Cryptic
+Author: Cryptic
+Section: Tweaks
+Version: 1.0.0
